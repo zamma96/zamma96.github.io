@@ -8,4 +8,5 @@ Page under construction!
 | Homepage | No |
 | VG section | No | 
 
-[Reviews Section](zamma96.github.io/review/)
+[Reviews Section](/review/)
+
