@@ -1,5 +1,5 @@
 trying a link 
 
 
-[FM24](/test)
+[FM24](reviews/test)
 
