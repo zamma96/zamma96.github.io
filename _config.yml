@@ -20,7 +20,7 @@
 
 header_pages:
 - /index.md
-- /abba.md
+- /reviews/abba.md
 - /reviews/test.md
 - /reviews/test2.md
 
@@ -41,12 +41,6 @@ github_username:  jekyll
 remote_theme: b2a3e8/jekyll-theme-console
 
 
-
-#header_pages:
-#  - index.md
-#  - abba.md
-#  - reviews/test.md
-#  - reviews/test2.md
 #style: dark # dark (default), light or hacker
 #listen_for_clients_preferred_style: true # false (default) or true
 
@@ -56,8 +50,8 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 
 
-plugins:
-  - jekyll-feed
+#plugins:
+ # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
