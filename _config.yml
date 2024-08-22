@@ -37,15 +37,15 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 
 header_pages:
-  - /reviews/index.md
+  - /abba.md
   - /reviews/test.md
   - /reviews/test2.md
-style: dark # dark (default), light or hacker
-listen_for_clients_preferred_style: true # false (default) or true
+#style: dark # dark (default), light or hacker
+#listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+#footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
 
-google_analytics: UA-NNNNNNNN-N
+#google_analytics: UA-NNNNNNNN-N
 
 
 

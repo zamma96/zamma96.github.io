@@ -1,8 +1,8 @@
 
 ---
-title: /index
+title: /abba
 layout: page
-permalink: /index
+permalink: /abba
 ---
 
 trying a link 
