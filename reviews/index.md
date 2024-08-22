@@ -1,3 +1,10 @@
+
+---
+title: /index
+layout: page
+permalink: /index
+---
+
 trying a link 
 
 
