@@ -39,7 +39,7 @@ header_pages:
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #remote_theme: minimal-mistakes-jekyll
 
 
@@ -52,8 +52,8 @@ theme: minimal-mistakes-jekyll
 
 
 
-#plugins:
- # - jekyll-feed
+plugins:
+ - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
