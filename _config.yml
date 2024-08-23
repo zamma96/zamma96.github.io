@@ -31,10 +31,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 header_pages:
-- /index.md
-- /reviews/abba.md
-- /reviews/test.md
-- /reviews/test2.md
+- index.md
+#- /reviews/abba.md
+#- /reviews/test.md
+- test2.md
 
 
 # Build settings
