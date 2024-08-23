@@ -39,8 +39,8 @@ header_pages:
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
-#remote_theme: b2a3e8/jekyll-theme-console
+# theme: minimal-mistakes-jekyll
+remote_theme: b2a3e8/jekyll-theme-console
 
 
 #style: dark # dark (default), light or hacker
